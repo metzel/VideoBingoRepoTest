@@ -1,0 +1,236 @@
+﻿VBAssets.swf Movie Report
+--------------------------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+      1169    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS5.5 - build 325</xmp:CreatorTool> <xmp:CreateDate>2011-08-12T17:32-07:00</xmp:CreateDate> <xmp:MetadataDate>2013-05-17T22:01:50+03:00</xmp:MetadataDate> <xmp:ModifyDate>2013-05-17T22:01:50+03:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:674445231CBFE2119932F3DEF9EFCCFB</stRef:instanceID> <stRef:documentID>xmp.did:54BF1AFEF92068118083F5E136484F1C</stRef:documentID> <stRef:originalDocumentID>xmp.did:F87F117407206811B1A4F82A587DF451</stRef:originalDocumentID> </xmpMM:DerivedFrom> <xmpMM:DocumentID>xmp.did:DD05FF3A24BFE2119932F3DEF9EFCCFB</xmpMM:DocumentID> <xmpMM:InstanceID>xmp.iid:DD05FF3A24BFE2119932F3DEF9EFCCFB</xmpMM:InstanceID> <xmpMM:OriginalDocumentID>xmp.did:F87F117407206811B1A4F82A587DF451</xmpMM:OriginalDocumentID> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1         581482         581482    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                 29405
+
+Symbol                    Shape Bytes    Text Bytes    ActionScript Bytes
+----------------------    -----------    ----------    ------------------
+1cardArt                            0             0                     0
+2cardArt                            0             0                     0
+3cardArt                            0             0                     0
+<Path>_2_4                         58             0                     0
+BackgroundA                         0             0                     0
+BallCell                            0           164                     0
+UPickEmMask                        32             0                     0
+BallPlaceMark                      71             0                     0
+BlueBall                            0             0                     0
+GreenBall                           0             0                     0
+RedBall                             0             0                     0
+YellowBall                          0             0                     0
+banne                               0             0                     0
+bg1_button                          0             0                     0
+bg1_button_art                      0             0                     0
+bg2_button                          0             0                     0
+bg2_button_art                      0             0                     0
+bg3_button                          0             0                     0
+bg3_button_art                      0             0                     0
+bg4_button                          0             0                     0
+bg4_button_art                      0             0                     0
+bg5_button                          0             0                     0
+bg5_button_art                      0             0                     0
+BgView                              0             0                     0
+GFX_logo                            0             0                     0
+bingo text                          0             0                     0
+BingoCardMini                     797             0                     0
+btn_close                           0             0                     0
+close_button                      361             0                     0
+CardCheckmarksB                     0             0                     0
+OneCardButtonB                      0           165                     0
+TwoCardButtonB                      0           165                     0
+ThreeCardButtonB                    0           165                     0
+CardsCheckmarkB                   266             0                     0
+CustomBgPanel                       0             0                     0
+CustomBgScrollMask                 35             0                     0
+Customize_Scrollbar                80             0                     0
+Customize_ScrollButton            132             0                     0
+CustomizeBg                       159             0                     0
+CustomizeDialog2                   37           726                     0
+ScrollBar                           0             0                     0
+CardsCheckmarkB                   266             0                     0
+padlock                           669             0                     0
+DaubBell                          101             0                     0
+DauberCheckLockBtn                  0           504                     0
+Daub                               58             0                     0
+OptionCheckboxBox                  62             0                     0
+DaubMoon                           80             0                     0
+DaubShamrock                      213             0                     0
+DaubStar                           52             0                     0
+DialogLayerSymbol                   0             0                     0
+FatalErrorOverlay                   0           258                     0
+ServerErrorOverlay                  0           315                     0
+BadgeWonBox                         0           534                     0
+LowTokensOverlay                    0           207                     0
+LevelUpOverlay                      0             0                     0
+Placeholder                        31             0                     0
+PurchaseOverlay                     0             0                     0
+<Path>_1                          154             0                     0
+<Path>_1                          154             0                     0
+<Compound Path>_0                 105             0                     0
+<Compound Path>_1_0               116             0                     0
+<Path>_1_0                        117             0                     0
+<Path>_2_1                         87             0                     0
+<Path>_3                          102             0                     0
+<Path>_4                          160             0                     0
+<Compound Path>                   116             0                     0
+<Group>_1                          55             0                     0
+<Path>_4                          160             0                     0
+<Path>_5                           51             0                     0
+<Path>_6                           66             0                     0
+<Group>                           835             0                     0
+shiny star                          0             0                     0
+video txt                           0             0                     0
+HelpIcon                            0             0                     0
+HudViewSymbol                       0            67                     0
+MinusBtnArt                       231             0                     0
+OptionBtnBg                        94             0                     0
+OptionsViewB                     2415           186                     0
+CardValueControlB                1149            69                     0
+BarButtonSmall                      0           676                     0
+OrangeButtonBg                     80             0                     0
+PlaceholderCard                     0             0                     0
+PlusBtnArt                        283             0                     0
+BarButton                           0           680                     0
+CardView                            0            69                     0
+OneCardLayout                       0             0                     0
+TwoCardLayout                       0             0                     0
+ThreeCardLayout                     0             0                     0
+DisableHelpButton2                  0           692                     0
+EndGameStage                        0             0                     0
+GamePlayView                        0             0                     0
+BingoCard                           0           374                     0
+BingoMarkStamp                     86             0                     0
+BingoMarkFourCorners              270             0                     0
+BingoMarkDiagDown                 102             0                     0
+BingoMarkDiagUp                   102             0                     0
+BingoMarkColumn                    99             0                     0
+BingoMarkRow                       99             0                     0
+BingoCardHitbox                    33           165                     0
+DaubSquare                         32             0                     0
+PrizeDaub                          58             0                     0
+OptionStage                         0             0                     0
+TutorialBoxTokens                   0             0                     0
+TutorialBoxCardValue                0             0                     0
+TutorialBoxFBCredits                0             0                     0
+TutorialBoxCardNumber               0             0                     0
+TutorialBoxPlay                     0             0                     0
+TutorialArrow                       0             0                     0
+CardValuePlusB                      0             0                     0
+CardValueMinusB                     0             0                     0
+DisableHelpButton                   0           240                     0
+PayoutDisplayB                      0             0                     0
+WelcomeOverlay                      0           557                     0
+TitleCover                         62             0                     0
+BadgeImageBox                      35             0                     0
+ContinueButton                      0             0                     0
+TutorialArrowTween                173             0                     0
+TutorialBoxBackground               0             0                     0
+TutorialPanel                       0           265                     0
+TutorialPanelBg                   112             0                     0
+TutorialLayer                       0             0                     0
+ValueText                           0           179                     0
+
+Font Name                Bytes         Characters
+---------------------    ----------    ----------
+SouvenirStd-Demi Bold         29009     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+SouvenirStd-Medium            26529     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+
+ActionScript Bytes    Location
+------------------    --------
+               388    Scene 1:Frame 1:BackgroundA
+               736    Scene 1:Frame 1:BallCell
+               459    Scene 1:Frame 1:BarButton
+               468    Scene 1:Frame 1:BarButtonSmall
+               380    Scene 1:Frame 1:Bg1Symbol
+               380    Scene 1:Frame 1:Bg2Symbol
+               380    Scene 1:Frame 1:Bg3Symbol
+               380    Scene 1:Frame 1:Bg4Symbol
+               380    Scene 1:Frame 1:Bg5Symbol
+               422    Scene 1:Frame 1:BgViewSymbol
+               936    Scene 1:Frame 1:BingoCard
+               440    Scene 1:Frame 1:BingoCardHitbox
+               382    Scene 1:Frame 1:BlueBall
+               534    Scene 1:Frame 1:CardCheckmarksB
+               545    Scene 1:Frame 1:CardValueControlB
+               395    Scene 1:Frame 1:CardValueMinusB
+               393    Scene 1:Frame 1:CardValuePlusB
+               576    Scene 1:Frame 1:CardViewSymbol
+               388    Scene 1:Frame 1:CustomizeBg
+               733    Scene 1:Frame 1:CustomizeDialogSymbol
+               375    Scene 1:Frame 1:Daub
+               378    Scene 1:Frame 1:DaubBell
+               378    Scene 1:Frame 1:DaubMoon
+               385    Scene 1:Frame 1:DaubShamrock
+               381    Scene 1:Frame 1:DaubSquare
+               378    Scene 1:Frame 1:DaubStar
+               519    Scene 1:Frame 1:DauberBtn
+               692    Scene 1:Frame 1:DialogLayerSymbol
+               394    Scene 1:Frame 1:DisableHelpButton
+               475    Scene 1:Frame 1:DisableHelpButton2
+               417    Scene 1:Frame 1:EndGameViewSymbol
+               449    Scene 1:Frame 1:FatalErrorOverlay
+               378    Scene 1:Frame 1:GFX_logo
+               802    Scene 1:Frame 1:GamePlayViewSymbol
+               384    Scene 1:Frame 1:GreenBall
+               639    Scene 1:Frame 1:HudViewSymbol
+               427    Scene 1:Frame 1:LevelUpOverlaySymbol
+               501    Scene 1:Frame 1:LowTokensOverlay
+               497    Scene 1:Frame 1:OneCardButton
+               494    Scene 1:Frame 1:OptionsStageSymbol
+               728    Scene 1:Frame 1:OptionsViewBSymbol
+               380    Scene 1:Frame 1:PrizeDaub
+               395    Scene 1:Frame 1:PurchaseOverlay
+               381    Scene 1:Frame 1:RedBall
+               430    Scene 1:Frame 1:ScrollBar
+               483    Scene 1:Frame 1:ServerErrorOverlay
+               500    Scene 1:Frame 1:ThreeCardButton
+               435    Scene 1:Frame 1:TutorialLayerSymbol
+               583    Scene 1:Frame 1:TutorialPanel
+               395    Scene 1:Frame 1:TutorialPanelBg
+               497    Scene 1:Frame 1:TwoCardButton
+               388    Scene 1:Frame 1:UPickEmMask
+               593    Scene 1:Frame 1:VBAssets_fla.bg1_button_64
+               593    Scene 1:Frame 1:VBAssets_fla.bg2_button_66
+               593    Scene 1:Frame 1:VBAssets_fla.bg3_button_67
+               593    Scene 1:Frame 1:VBAssets_fla.bg4_button_68
+               593    Scene 1:Frame 1:VBAssets_fla.bg5_button_69
+               428    Scene 1:Frame 1:ValueText
+               508    Scene 1:Frame 1:WelcomeOverlaySymbol
+               386    Scene 1:Frame 1:YellowBall
+               485    Scene 1:Frame 1:btn_close
+
+Bitmap                               Compressed    Original      Compression
+---------------------------------    ----------    ----------    -----------
+tutorial_button.png                         827          2304    Lossless
+results_box.png                           11388        479808    Lossless
+btn_cashout.png                            2031         22468    Lossless
+carte_game.png                             6330        134420    JPEG Quality=80
+bgdefault_570.png                         74340       2339280    JPEG Quality=80
+bg2                                        8565       1520000    JPEG Quality=20
+bg3                                        6209       1520000    JPEG Quality=20
+bg4                                        9850       1520000    JPEG Quality=20
+BeachBingo_background_sunset2.jpg         10582       1520000    JPEG Quality=20
+vbDeluxLogo.png                          165747       1564052    JPEG Quality=100
+bouleJaune.png                              594          2116    JPEG Quality=80
+bouleRouge.png                              583          2116    JPEG Quality=80
+bouleVerte.png                             1139          2116    Lossless
+bouleBleu.png                               580          2116    JPEG Quality=80
+pause_box.png                              3811        243264    Lossless
+end_summary_bg.png                         4252        428736    Lossless
+coin_medium.png                            1256          2400    Lossless
+abc_BG_no_logo.jpg                       156166       4332000    Imported JPEG=102
+
+
+
+

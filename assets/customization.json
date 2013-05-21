@@ -1,0 +1,19 @@
+{
+   "daubers":
+   [
+      { "itemId": 9, "level": 11, "name": "Circle",   "cls": "Daub",         "price":0,    "currency":"tokens", "owned": true},
+      { "itemId": 8, "level": 18, "name": "Shamrock", "cls": "DaubShamrock", "price":5,   "currency":"credits", "owned": false},
+      { "itemId": 5, "level": 11, "name": "Star",     "cls": "DaubStar",     "price":1000, "currency":"tokens", "owned": false},
+      { "itemId": 6, "level": 14, "name": "Moon",     "cls": "DaubMoon",     "price":10,   "currency":"credits", "owned": false},
+      { "itemId": 7, "level": 16, "name": "Bell",     "cls": "DaubBell",     "price":10,   "currency":"credits", "owned": false}     
+  ],
+   "backgrounds":
+   [
+      { "itemId": 19, "level": 11, "name": "Default",    "price":0,    "currency":"tokens",   "url": "bgdefault570",    "owned": true},
+      { "itemId": 10, "level": 11, "name": "StPatty",    "price":0,    "currency":"tokens",   "url": "bgStPatty570",    "owned": true},
+      { "itemId": 11, "level": 11, "name": "Tiki",       "price":1000, "currency":"tokens",   "url": "bgtiki570",       "owned": false},
+      { "itemId": 12, "level": 14, "name": "Romance",    "price":10,   "currency":"credits",  "url": "bgromance570",    "owned": false},
+      { "itemId": 13, "level": 16, "name": "Sunset",     "price":10,   "currency":"credits",  "url": "bgsunset570",     "owned": false},
+      { "itemId": 14, "level": 18, "name": "BingoBeach", "price":10,   "currency":"credits",  "url": "bgbingobeach570", "owned": false}
+   ]
+}

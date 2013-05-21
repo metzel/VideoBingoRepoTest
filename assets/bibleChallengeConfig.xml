@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<data>
+	<!-- The first queue only loads the external preloader, if needed, and a SWF containing generic 
+	     dialog boxes and such in case errors must be shown. -->
+ 
+    <!--
+    <LoaderMax name="preloadQueue" prependURLs="" load="false">
+        <SWFLoader url="assets/WofPreloader.swf" name="progressSwf" autoPlay="false" eventType="progressSwfComplete"/>
+		<ImageLoader url="assets/background.png" name="progressBackground" autoPlay="false" eventType="displaySwfComplete"/> 
+		<ImageLoader url="assets/background2.png" name="progressBackground" autoPlay="false"/> 
+        
+    </LoaderMax> -->
+   
+	<!-- The mainQueue includes everything that must load before the player can take any actions. -->
+
+    <LoaderMax name="mainQueue" prependURLs="" load="true">
+		<SWFLoader url="BCAssets570.swf" name="OldBundle" autoPlay="false" load="true" />
+        <SWFLoader url="BaseBundle.swf" name="BaseBundle" autoPlay="false" load="false" />
+    </LoaderMax>
+    
+    <!-- Anything in the slowQueue can be loaded after the game begins. -->
+    <LoaderMax name="slowQueue" prependURLs="" load="false" postLoad="true">
+        <SWFLoader url="music.swf" name="MusicBundle" autoPlay="false" load="false" postLoad="true" eventType="musicSwfLoaded"/>
+        <SWFLoader url="sounds.swf" name="SoundBundle" autoPlay="false" load="false" postLoad="true" eventType="soundSwfLoaded"/>
+        <SWFLoader url="voice.swf" name="VoiceBundle" autoPlay="false" load="false" postLoad="true" eventType="voiceSwfLoaded"/>
+	</LoaderMax>
+	
+	<library bundle="BaseBundle">
+        <element id="PANEL_bonusnumbers" classname="PANEL_bonusnumbers" type="" />
+        <element id="PANEL_winningspercard" classname="PANEL_winningspercard" type="" />
+        <element id="PANEL_optionswinnings" classname="PANEL_optionswinnings" type="" />
+        <element id="PANEL_speed" classname="PANEL_speed" type="" />
+        <element id="PANEL_pause" classname="PANEL_pause" type="" />
+        <element id="PANEL_bingocard" classname="PANEL_bingocard" type="" />
+        <element id="PANEL_cashout" classname="PANEL_cashout" type="" />
+        <element id="PANEL_tokenbalance" classname="PANEL_tokenbalance" type="" />
+        <element id="PANEL_leveltracker" classname="PANEL_leveltracker" type="" />
+        <element id="PANEL_levelup" classname="PANEL_levelup" type="" />
+        <element id="PANEL_results" classname="PANEL_results" type="" />
+        <element id="PANEL_resume" classname="PANEL_resume" type="" />
+        <element id="PANEL_endgameverify" classname="PANEL_endgameverify" type="" />
+        <element id="PANEL_PurchaseTokens" classname="PANEL_PurchaseTokens" type="" />
+        <element id="PANEL_TokenPrice" classname="PANEL_TokenPrice" type="" />
+        <element id="PANEL_CustomBgRow" classname="PANEL_CustomBgRow" type="" />
+        <element id="PANEL_CustomDauberRow" classname="PANEL_CustomDauberRow" type="" />
+        <element id="PANEL_Customize" classname="PANEL_Customize" type="" />
+        <element id="PANEL_BigWinShare" classname="PANEL_BigWinShare" type="" />
+        <element id="PANEL_InviteFriends" classname="PANEL_InviteFriends" type="" />
+        <element id="PANEL_Message" classname="PANEL_Message" type="" />
+        <element id="ANIM_AnticipatoryGlow" classname="ANIM_AnticipatoryGlow" type="" />
+        <element id="ANIM_BigWinFanfare" classname="ANIM_BigWinFanfare" type="" />
+        <element id="ANIM_BlueStarburst" classname="ANIM_BlueStarburst" type="" />
+        <element id="ANIM_DauberEffectRegular" classname="ANIM_DauberEffectRegular" type="" />
+        <element id="ANIM_DauberEffectPrize" classname="ANIM_DauberEffectPrize" type="" />
+        <element id="ANIM_DauberEffectBonus" classname="ANIM_DauberEffectBonus" type="" />
+        <element id="ANIM_GoldStarburst" classname="ANIM_GoldStarburst" type="" />
+        <element id="ANIM_bingo" classname="ANIM_bingo" type="" />
+        <element id="ANIM_bonusbingo" classname="ANIM_bonusbingo" type="" />
+        <element id="ANIM_doublebingo" classname="ANIM_doublebingo" type="" />
+        <element id="ANIM_megabingo" classname="ANIM_megabingo" type="" />
+        <element id="ANIM_triplebingo" classname="ANIM_triplebingo" type="" />
+        <element id="ANIM_BingoLarge" classname="ANIM_BingoLarge" type="" />
+        <element id="ANIM_BonusBingoLarge" classname="ANIM_BonusBingoLarge" type="" />
+        <element id="ANIM_DoubleBingoLarge" classname="ANIM_DoubleBingoLarge" type="" />
+        <element id="ANIM_MegaBingoLarge" classname="ANIM_MegaBingoLarge" type="" />
+        <element id="ANIM_TripleBingoLarge" classname="ANIM_TripleBingoLarge" type="" />
+        <element id="BTN_addballs" classname="BTN_addballs" type="" />
+        <element id="BTN_ballcell" classname="BTN_ballcell" type="" />
+        <element id="BTN_bluebar" classname="BTN_bluebar" type="" />
+        <element id="BTN_bluebarsmall" classname="BTN_bluebarsmall" type="" />
+        <element id="BTN_BonusPatterns" classname="BTN_BonusPatterns" type="" />
+        <element id="BTN_cardcell" classname="BTN_cardcell" type="" />
+        <element id="BTN_close" classname="BTN_close" type="" />
+        <element id="BTN_endgame" classname="BTN_endgame" type="" />
+        <element id="BTN_extrapatterns" classname="BTN_extrapatterns" type="" />
+        <element id="BTN_fullscreen" classname="BTN_fullscreen" type="" />
+        <element id="BTN_greenbar" classname="BTN_greenbar" type="" />
+        <element id="BTN_greenbarsmall" classname="BTN_greenbarsmall" type="" />        
+        <element id="BTN_invitefriends" classname="BTN_invitefriends" type="" />
+        <element id="BTN_music" classname="BTN_music" type="" />
+        <element id="BTN_musicoff" classname="BTN_musicoff" type="" />
+        <element id="BTN_options" classname="BTN_options" type="" />
+        <element id="BTN_pause" classname="BTN_pause" type="" />
+        <element id="BTN_playbingo" classname="BTN_playbingo" type="" />
+        <element id="BTN_sound" classname="BTN_sound" type="" />
+        <element id="BTN_soundoff" classname="BTN_soundoff" type="" />
+        <element id="BTN_speedplus" classname="BTN_speedplus" type="" />
+        <element id="BTN_speedminus" classname="BTN_speedminus" type="" />
+        <element id="BTN_tokenplus" classname="BTN_tokenplus" type="" />
+        <element id="BTN_upickem" classname="BTN_upickem" type="" />
+        <element id="GFX_ballhopper" classname="GFX_ballhopper" type="" />
+        <element id="GFX_bingoball_blue" classname="GFX_bingoball_blue" type="" />
+        <element id="GFX_bingoball_gold" classname="GFX_bingoball_gold" type="" />
+        <element id="GFX_bingoball_green" classname="GFX_bingoball_green" type="" />
+        <element id="GFX_bingoball_orange" classname="GFX_bingoball_orange" type="" />
+        <element id="GFX_bingoball_purple" classname="GFX_bingoball_purple" type="" />
+        <element id="GFX_bingoball_red" classname="GFX_bingoball_red" type="" />
+        <element id="GFX_bonusball_blue" classname="GFX_bonusball_blue" type="" />
+        <element id="GFX_bonusball_gold" classname="GFX_bonusball_gold" type="" />
+        <element id="GFX_bonusball_green" classname="GFX_bonusball_green" type="" />
+        <element id="GFX_bonusball_orange" classname="GFX_bonusball_orange" type="" />
+        <element id="GFX_bonusball_purple" classname="GFX_bonusball_purple" type="" />
+        <element id="GFX_bonusball_red" classname="GFX_bonusball_red" type="" />
+        <element id="GFX_Checkmark" classname="GFX_Checkmark" type="" />
+        <element id="GFX_coin" classname="GFX_coin" type="" />
+        <element id="GFX_creditcards" classname="GFX_creditcards" type="" />
+        <element id="GFX_fbcredit" classname="GFX_fbcredit" type="" />
+        <element id="GFX_inviteheader" classname="GFX_inviteheader" type="" />
+        <element id="GFX_InvitePromo" classname="GFX_InvitePromo" type="" />
+        <element id="GFX_smallball_blue" classname="GFX_smallball_blue" type="" />
+        <element id="GFX_smallball_gold" classname="GFX_smallball_gold" type="" />
+        <element id="GFX_smallball_green" classname="GFX_smallball_green" type="" />
+        <element id="GFX_smallball_orange" classname="GFX_smallball_orange" type="" />
+        <element id="GFX_smallball_purple" classname="GFX_smallball_purple" type="" />
+        <element id="GFX_smallball_red" classname="GFX_smallball_red" type="" />
+        <element id="GFX_starbanner" classname="GFX_starbanner" type="" />
+        <element id="GFX_daubmark_red" classname="GFX_daubmark_red" type="" />
+        <element id="GFX_token" classname="GFX_token" type="" />
+        <element id="GFX_tokenbalance" classname="GFX_tokenbalance" type="" />
+        <element id="GFX_bingochart" classname="GFX_bingochart" type="" />
+        <element id="GFX_bingocard" classname="GFX_bingocard" type="" />
+    </library>
+	
+    <!-- Game-specific configuration data. -->
+    <ConfigData>
+    	<gameId>406</gameId>
+    	<version>200</version>
+    	<srcdir>src</srcdir>
+    	<size width="760" height="570"/>
+    	<backgroundColor>#041257</backgroundColor>
+    	<frameRate>30</frameRate>
+    	<minBadgeId>87</minBadgeId>
+    	<maxBadgeId>684</maxBadgeId>
+	</ConfigData>
+	
+</data>
